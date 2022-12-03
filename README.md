@@ -18,5 +18,6 @@ In P. Novais et al. (Eds.), Proceedings of the European Simulation and Modelling
 Portugal, October, 2011. EUROSIS.
 
 
-### Описание данных и расчеты приведены в ноутбуке, доступном по ссылке (NBviewer) или напрямую в Github
-(MGTU_final_project_221122.ipynb)
+### Описание данных и расчеты приведены в ноутбуке, доступном:
+- по ссылке (NBviewer) - https://nbviewer.org/github/yuyuli2020/mgtu_122022/blob/6ac019dd711a716cc8151476de37a610813134b9/MGTU_final_project_221122%20%281%29.ipynb 
+-  или напрямую в Github (файл MGTU_final_project_221122 (1).ipynb)
