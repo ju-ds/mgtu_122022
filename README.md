@@ -19,5 +19,5 @@ Portugal, October, 2011. EUROSIS.
 
 
 ### Описание данных и расчеты приведены в ноутбуке, доступном:
-- по ссылке (NBviewer) - https://nbviewer.org/github/yuyuli2020/mgtu_122022/blob/6ac019dd711a716cc8151476de37a610813134b9/MGTU_final_project_221122%20%281%29.ipynb 
+- по ссылке (NBviewer) - https://nbviewer.org/github/yuyuli2020/mgtu_122022/blob/b49bb3a459955c4061cc203c21da4c49f7967ed4/MGTU_final_project_221122.ipynb
 -  или напрямую в Github (файл MGTU_final_project_221122.ipynb)
